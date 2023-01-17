@@ -12,8 +12,8 @@
   <h1>React responsibe carousel npm package!</h1>
   <h1>componnet structure .. and dynamic data changing features ..  </h1>
   </div>
-  <div>
-  <img src="https://raw.githubusercontent.com/raihan-jishan/food-website/main/public/Screenshot%20(186).png" width="150" />
+  <div border-radius="2rem">
+  <img src="https://raw.githubusercontent.com/raihan-jishan/food-website/main/public/Screenshot%20(186).png" width="550" />
   </div>
 
 # Getting Started with Create React App

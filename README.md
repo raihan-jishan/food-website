@@ -1,7 +1,20 @@
-<div align="center">
-  <h1>𝗪𝗲𝗹𝗹𝗰𝗼𝗺𝗲 𝘁𝗼 𝗙𝗼𝗼𝗱 𝘄𝗲𝗯𝘀𝗶𝘁𝗲 𝗿𝗲𝗽𝗼｡｡ </h1>
-  
+<div align="center" border="1px solid white">
+  <h1>𝗪𝗲𝗹𝗹𝗰𝗼𝗺𝗲 𝘁𝗼 𝗙𝗼𝗼𝗱 𝘄𝗲𝗯𝘀𝗶𝘁𝗲 𝗿𝗲𝗽𝗼｡｡ <img src="https://cdn-icons-png.flaticon.com/128/737/737967.png" width="22" /></h1>
+  <span>Ｉｆ ｙｏｕ ｇｏｎｎａ ｅｎｔｅｒｅｓｔｉｎｇ ａｂｏｕｔ ｔｈｉｓ ｐｒｏｊｅｃｔ ？ ｐｌｅａｓｅ ｃｈｅｃｋ ｂｅｌｏｗ ！</span>
 </div>
+<div>
+    <h3 align="left">𝐒𝗂ꭑρᥣ𝖾 𝗋𝖾α𝖼𝗍 𝖿𝗋ⱺ𐓣𝗍-𝖾𐓣ᑯ ω𝖾ᑲ𝗌𝗂𝗍𝖾 ... 𝐔𝗌𝗂𐓣𝗀 𝗋𝖾α𝖼𝗍 .. 𝐀𐓣ᑯ ɦ𝗍ꭑᥣ ꭑ𝖾𝗋𝗄υρ 𝗂𝗌 ρ𝗋ⱺ𝗏𝗂ᑯ𝖾 ᑲ𝗒 ꭑ𝗋/ω𝖾ᑲᑯ𝖾𝗌𝗂𝗀𐓣𝖾𝗋 𝗒ⱺυ𝗍υᑲ𝖾 𝖼ɦα𐓣𐓣𝖾ᥣ .. </h3>
+      <h2>𝔹𝕖𝕝𝕠𝕨 𝕌𝕤𝕚𝕟𝕘 𝕋𝕖𝕔𝕙𝕟𝕠𝕝𝕠𝕘𝕚𝕖𝕤 𝕝𝕚𝕤𝕥  </h2>
+  <h1>React ... version 18 ^  </h1>
+  <h1>Font awesome icons </h1>
+  <h1>html css </h1>
+  <h1>React hooks </h1>
+  <h1>React responsibe carousel npm package!</h1>
+  <h1>componnet structure .. and dynamic data changing features ..  </h1>
+  </div>
+  <div>
+  <img src="https://raw.githubusercontent.com/raihan-jishan/food-website/main/public/Screenshot%20(186).png" width="30" />
+  </div>
 
 # Getting Started with Create React App
 

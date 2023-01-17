@@ -1,5 +1,5 @@
 <div align="center" border="1px solid white">
-  <h1>𝗪𝗲𝗹𝗹𝗰𝗼𝗺𝗲 𝘁𝗼 𝗙𝗼𝗼𝗱 𝘄𝗲𝗯𝘀𝗶𝘁𝗲 𝗿𝗲𝗽𝗼｡｡ <img src="https://cdn-icons-png.flaticon.com/128/737/737967.png" width="22" /></h1>
+  <h1>𝗪𝗲𝗹𝗹𝗰𝗼𝗺𝗲 𝘁𝗼 𝗙𝗼𝗼𝗱 𝘄𝗲𝗯𝘀𝗶𝘁𝗲 𝗿𝗲𝗽𝗼｡｡ <img src="https://cdn-icons-png.flaticon.com/128/737/737967.png" width="52" /></h1>
   <span>Ｉｆ ｙｏｕ ｇｏｎｎａ ｅｎｔｅｒｅｓｔｉｎｇ ａｂｏｕｔ ｔｈｉｓ ｐｒｏｊｅｃｔ ？ ｐｌｅａｓｅ ｃｈｅｃｋ ｂｅｌｏｗ ！</span>
 </div>
 <div>
@@ -12,8 +12,8 @@
   <h1>React responsibe carousel npm package!</h1>
   <h1>componnet structure .. and dynamic data changing features ..  </h1>
   </div>
-  <div border-radius="2rem">
-  <img src="https://raw.githubusercontent.com/raihan-jishan/food-website/main/public/Screenshot%20(186).png" width="550" />
+  <div  align="center">
+  <img src="https://raw.githubusercontent.com/raihan-jishan/food-website/main/public/Screenshot%20(186).png" width="550" borderRadius="2rem"/>
   </div>
 
 # Getting Started with Create React App

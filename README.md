@@ -13,7 +13,7 @@
   <h1>componnet structure .. and dynamic data changing features ..  </h1>
   </div>
   <div>
-  <img src="https://raw.githubusercontent.com/raihan-jishan/food-website/main/public/Screenshot%20(186).png" width="30" />
+  <img src="https://raw.githubusercontent.com/raihan-jishan/food-website/main/public/Screenshot%20(186).png" width="150" />
   </div>
 
 # Getting Started with Create React App
